@@ -1,0 +1,3 @@
+SpotifyLyrics is a BetterDiscord plugin
+
+More coming soon...
