@@ -1,6 +1,6 @@
 /**
  * @name SpotifyEnhanced
- * @author you
+ * @author noks.pm
  * @description Displays Spotify lyrics as your Discord custom status in real time.
  * @version 4.0.0
  */
